@@ -1,1 +1,1 @@
-# module-3-solution
+# mod-3
